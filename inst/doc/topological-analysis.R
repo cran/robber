@@ -10,7 +10,11 @@ knitr::opts_chunk$set(
 
 ## ----setup--------------------------------------------------------------------
 library(robber)
-library(tidyverse)
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+library(forcats)
+library(purrr)
 library(igraph)
 theme_set(theme_bw(base_size = 15))
 
