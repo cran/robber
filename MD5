@@ -1,6 +1,6 @@
-fabd76933bb3d539611a4099f6ef91a3 *DESCRIPTION
+ef08db1f88baddd3afe433eed37d7714 *DESCRIPTION
 d41eb85118569443570e9feeb7f7ebc7 *NAMESPACE
-4f78e2b003537641c72afe792eb7ebef *NEWS.md
+eac2aaeb8a6c8fc4fbe8fc69b1c1b27e *NEWS.md
 5d2504a473aa3ef5a2b1d7a41f2da225 *R/compare_robustness.R
 9703139a71c1e2a86fc030792034a632 *R/get_bm_parameters.R
 1bb01b8b61a2c979bc2c28e89e9cd4cb *R/hostparasite.R
@@ -13,15 +13,15 @@ fb2cc2872f09f391b4ce4cc48ac1cfe6 *R/simulate_bm.R
 fd59e8ecf9e5c599b36771d81d8b3094 *R/variance.R
 2eff3ae0fd0f71084d2d862980217a7d *R/zzz.R
 da8a90951f8c1027e7ecabbcb4c4443a *README.md
-f0e2fc12b3a0876541d8616063f2c4e5 *build/vignette.rds
+abe60cd477635c0f2377fe3f9402e836 *build/vignette.rds
 0f4679b8e75760b3825515c139e5d620 *data/hostparasite.rda
 e87a2b46f71353d3ea21e02bbbbfd71c *data/pollination.rda
 b72a4a44e8b61747d4532b71aba7ff69 *data/seeddispersal.rda
 6ec566099ca7524d8158c305eb53f896 *inst/CITATION
 997b2320e72b5f3083f3aee51abbbd4e *inst/WORDLIST
-f1bd25ebb40a2b510fd5c410aecdef47 *inst/doc/topological-analysis.R
-2924d56affcdc204c2942f8771f23292 *inst/doc/topological-analysis.Rmd
-7434cc7ced28c4cf7cc36eac92b08d04 *inst/doc/topological-analysis.html
+abd3e725984c91f40130a5476c66597e *inst/doc/topological-analysis.R
+693905624e698a73e0c2027243591527 *inst/doc/topological-analysis.Rmd
+8aaa69cb0537afd3d440d4d97b181b31 *inst/doc/topological-analysis.html
 f1b5814a1494a65d9726a61a99935d94 *man/auc_robustness_lbm.Rd
 cfc2ac739b14290ebc97a07fbb48b282 *man/compare_robustness.Rd
 7795fd66f6d6e3fab69e2c45d331e763 *man/get_lbm_param.Rd
@@ -46,4 +46,4 @@ b1394b54d2e7364ff91b567438159ccd *tests/testthat/test-robustness_emp.R
 cf5bc16a262026737eb32c17bbb07661 *vignettes/res_gnp.rds
 b6b9e683a27322781dbe273640b8efe4 *vignettes/res_gnp_pres.rds
 e1adee89125294f764285a89fe61a365 *vignettes/res_topo.rds
-2924d56affcdc204c2942f8771f23292 *vignettes/topological-analysis.Rmd
+693905624e698a73e0c2027243591527 *vignettes/topological-analysis.Rmd
